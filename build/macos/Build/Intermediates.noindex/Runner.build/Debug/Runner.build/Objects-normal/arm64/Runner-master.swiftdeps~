@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "f2d6c80daa9d5c39e75676ebff000490a1a6054e2975f3902ce281940af54a11"
+build_start_time: [1700275688, 891597000]
+build_end_time: [1700275688, 918998000]
+inputs:
+  "/Users/chinmaychaudhari/Developer/MAD flutter applications/mp4-Chinnmay/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1700275658, 955448870]
+  "/Users/chinmaychaudhari/Developer/MAD flutter applications/mp4-Chinnmay/macos/Runner/AppDelegate.swift": !private [1699652699, 803378722]
+  "/Users/chinmaychaudhari/Developer/MAD flutter applications/mp4-Chinnmay/macos/Runner/MainFlutterWindow.swift": !private [1699652699, 805853782]
